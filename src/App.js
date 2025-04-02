@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <a>
-          Learning CI/CD on AWS for React App - Rishi Chauhan
+          Learning CI/CD on AWS for React App
         </a>
       </header>
     </div>
